@@ -1,0 +1,4 @@
+2025-10-14 19:12:40,722 - YouTubeDownloader - INFO - Starting YouTube Downloader Application
+2025-10-14 19:13:11,231 - YouTubeDownloader - INFO - Added to queue: https://youtu.be/6zOyOglWGw4?si=tYBIy60xxKeSIsEd
+2025-10-14 19:13:17,140 - YouTubeDownloader - INFO - Starting download: https://youtu.be/6zOyOglWGw4?si=tYBIy60xxKeSIsEd
+2025-10-14 19:13:19,551 - YouTubeDownloader - ERROR - Download failed for https://youtu.be/6zOyOglWGw4?si=tYBIy60xxKeSIsEd: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error

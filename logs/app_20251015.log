@@ -27,3 +27,4 @@
 2025-10-15 18:23:52,476 - YouTubeDownloader - INFO - Removed from queue: 19834f81-7777-4309-8ef4-abe91060d036
 2025-10-15 18:23:53,860 - YouTubeDownloader - INFO - Removed from queue: 1d020826-6555-468d-9515-3e2dcf1c8299
 2025-10-15 18:23:56,457 - YouTubeDownloader - ERROR - Download failed for https://youtube.com/playlist?list=PLsyeobzWxl7rF6HYJBTNuXy3CNxDkDl3V&si=TZ-gq4dvAh7pGv3N: invalid command name ".!ctkframe4.!ctkframe2.!canvas.!ctkscrollableframe.!downloaditemwidget3.!ctkframe.!ctkprogressbar.!ctkcanvas"
+2025-10-15 18:34:01,453 - YouTubeDownloader - INFO - Starting YouTube Downloader Application

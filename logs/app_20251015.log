@@ -1,0 +1,29 @@
+2025-10-15 18:04:51,621 - YouTubeDownloader - INFO - Starting YouTube Downloader Application
+2025-10-15 18:11:22,856 - YouTubeDownloader - INFO - Starting YouTube Downloader Application
+2025-10-15 18:13:05,805 - YouTubeDownloader - INFO - Added to queue: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:13:07,503 - YouTubeDownloader - INFO - Starting download: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:13:21,213 - YouTubeDownloader - ERROR - Download failed for https://www.youtube.com/watch?v=kuSr6yTMuC8: ERROR: The downloaded file is empty
+2025-10-15 18:14:15,093 - YouTubeDownloader - INFO - Removed from queue: a325db4b-fc8f-4202-80a5-063d48a8925e
+2025-10-15 18:14:32,073 - YouTubeDownloader - INFO - Added to queue: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:14:36,547 - YouTubeDownloader - ERROR - Download failed for https://www.youtube.com/watch?v=kuSr6yTMuC8: [WinError 123] The filename, directory name, or volume label syntax is incorrect: './downloadshttps:'
+2025-10-15 18:20:24,356 - YouTubeDownloader - INFO - Starting YouTube Downloader Application
+2025-10-15 18:20:32,085 - YouTubeDownloader - INFO - Starting YouTube Downloader Application
+2025-10-15 18:20:40,217 - YouTubeDownloader - INFO - Added to queue: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:20:41,543 - YouTubeDownloader - INFO - Starting download: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:20:52,646 - YouTubeDownloader - INFO - Download completed: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:20:52,661 - YouTubeDownloader - INFO - Marked completed: e1b5f95f-6673-4207-a406-95566d3d24a7
+2025-10-15 18:21:15,315 - YouTubeDownloader - INFO - Starting YouTube Downloader Application
+2025-10-15 18:21:20,249 - YouTubeDownloader - INFO - Added to queue: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:21:44,032 - YouTubeDownloader - INFO - Added to queue: https://www.youtube.com/watch?v=TIwBwyMgS50
+2025-10-15 18:23:05,463 - YouTubeDownloader - INFO - Added to queue: https://youtube.com/playlist?list=PLsyeobzWxl7rF6HYJBTNuXy3CNxDkDl3V&si=TZ-gq4dvAh7pGv3N
+2025-10-15 18:23:09,798 - YouTubeDownloader - INFO - Starting download: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:23:09,800 - YouTubeDownloader - INFO - Starting download: https://www.youtube.com/watch?v=TIwBwyMgS50
+2025-10-15 18:23:09,802 - YouTubeDownloader - INFO - Starting download: https://youtube.com/playlist?list=PLsyeobzWxl7rF6HYJBTNuXy3CNxDkDl3V&si=TZ-gq4dvAh7pGv3N
+2025-10-15 18:23:15,087 - YouTubeDownloader - INFO - Download completed: https://www.youtube.com/watch?v=kuSr6yTMuC8
+2025-10-15 18:23:15,653 - YouTubeDownloader - INFO - Marked completed: 262a3223-f5a7-4a57-a72f-37f1454fefc8
+2025-10-15 18:23:29,575 - YouTubeDownloader - INFO - Download completed: https://www.youtube.com/watch?v=TIwBwyMgS50
+2025-10-15 18:23:29,583 - YouTubeDownloader - INFO - Marked completed: 19834f81-7777-4309-8ef4-abe91060d036
+2025-10-15 18:23:52,472 - YouTubeDownloader - INFO - Removed from queue: 262a3223-f5a7-4a57-a72f-37f1454fefc8
+2025-10-15 18:23:52,476 - YouTubeDownloader - INFO - Removed from queue: 19834f81-7777-4309-8ef4-abe91060d036
+2025-10-15 18:23:53,860 - YouTubeDownloader - INFO - Removed from queue: 1d020826-6555-468d-9515-3e2dcf1c8299
+2025-10-15 18:23:56,457 - YouTubeDownloader - ERROR - Download failed for https://youtube.com/playlist?list=PLsyeobzWxl7rF6HYJBTNuXy3CNxDkDl3V&si=TZ-gq4dvAh7pGv3N: invalid command name ".!ctkframe4.!ctkframe2.!canvas.!ctkscrollableframe.!downloaditemwidget3.!ctkframe.!ctkprogressbar.!ctkcanvas"
